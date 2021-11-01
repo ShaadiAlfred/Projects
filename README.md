@@ -1,14 +1,10 @@
 # Projects
 ## Table of Contents  
-[UNICEF Egypt Health](#unicef-egypt-health)
-
-[3WS](#3ws)
-
-[MOHP Stats](#mohp-stats)
-
-[Recipes web app](#not-so-based-cooking)
-
-[Note Taking App](#note-taking-app)
+- [UNICEF Egypt Health](#unicef-egypt-health)
+- [3WS](#3ws)
+- [MOHP Stats](#mohp-stats)
+- [Recipes web app](#not-so-based-cooking)
+- [Note Taking App](#note-taking-app)
 
 
 ## UNICEF Egypt Health
@@ -57,6 +53,9 @@ https://not-so-based-cooking.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/3685582/139627861-b94e363a-6e0f-46b2-8157-eb313ba94485.png)
 ![image](https://user-images.githubusercontent.com/3685582/139627875-26bf205e-6058-4cfe-82df-aa48d85820da.png)
 ![image](https://user-images.githubusercontent.com/3685582/139627951-febd9336-2e27-4ab8-8ad2-86cdecb5e6da.png)
+
+If you're logged in, you can use markdown
+
 ![image](https://user-images.githubusercontent.com/3685582/139628092-837a24fe-2089-4227-a981-d43d185a6d2e.png)
 
 ## Note Taking App
