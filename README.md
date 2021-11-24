@@ -5,6 +5,7 @@
 - [MOHP Stats](#mohp-stats)
 - [Recipes web app](#not-so-based-cooking)
 - [Note Taking App](#note-taking-app)
+- [Chrome Epub Reader](#chrome-epub-reader)
 
 
 ## UNICEF Egypt Health
@@ -65,4 +66,8 @@ https://my-notes-taking.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/3685582/139628346-07439253-e336-413e-bf3c-87b798bddaa5.png)
 ![image](https://user-images.githubusercontent.com/3685582/139628434-332d662d-52ac-4be7-8853-be557902b979.png)
+
+## Chrome Epub Reader
+https://github.com/ShaadiAlfred/Chrome-Epub-Reader
+https://files.catbox.moe/x824vr.mp4
 
