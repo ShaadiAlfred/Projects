@@ -72,7 +72,7 @@ https://github.com/shadyalfred/laravel-react-note-app
 ## Chrome Epub Reader
 https://github.com/shadyalfred/Chrome-Epub-Reader
 
-https://user-images.githubusercontent.com/3685582/212721615-59834e56-fdff-4dac-98ed-a0ebc754c12f.mp4
+https://user-images.githubusercontent.com/3685582/212722672-e14cab09-0443-4d08-85f5-f8bf06c9f9c3.mp4
 
 
 ## Url Shortener
