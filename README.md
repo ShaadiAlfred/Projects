@@ -60,6 +60,7 @@ If you're logged in, you can use markdown
 
 ![image](https://user-images.githubusercontent.com/3685582/139628092-837a24fe-2089-4227-a981-d43d185a6d2e.png)
 
+
 ## Note Taking App
 https://github.com/shadyalfred/laravel-react-note-app
 
@@ -67,12 +68,11 @@ https://github.com/shadyalfred/laravel-react-note-app
 ![image](https://user-images.githubusercontent.com/3685582/139628346-07439253-e336-413e-bf3c-87b798bddaa5.png)
 ![image](https://user-images.githubusercontent.com/3685582/139628434-332d662d-52ac-4be7-8853-be557902b979.png)
 
+
 ## Chrome Epub Reader
 https://github.com/shadyalfred/Chrome-Epub-Reader
 
-
-
-https://files.catbox.moe/x824vr.mp4
+https://user-images.githubusercontent.com/3685582/212721615-59834e56-fdff-4dac-98ed-a0ebc754c12f.mp4
 
 
 ## Url Shortener
@@ -82,8 +82,10 @@ https://github.com/shadyalfred/url_shortener
 ![image](https://user-images.githubusercontent.com/3685582/180630926-ab3601b1-d9a1-40a2-8c2f-e1a5c2c35579.png)
 ![image](https://user-images.githubusercontent.com/3685582/180630936-07705206-7da4-419b-a441-c93cc0927ec5.png)
 
+
 ## Ini Parser
 https://github.com/shadyalfred/IniParser
+
 
 ## Metro Ticket
 https://github.com/shadyalfred/metro_ticket
