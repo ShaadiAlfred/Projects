@@ -9,6 +9,7 @@
 - [Url Shortener with Spring Boot](#url-shortener)
 - [Ini Parser with Monadic Parser Combinators](#ini-parser)
 - [Metro Ticket](#metro-ticket)
+- [Typewriter sounds for X11](#typewriter-sounds-for-x11)
 
 
 ## UNICEF Egypt Health
@@ -92,4 +93,9 @@ https://github.com/shadyalfred/metro_ticket
 
 https://user-images.githubusercontent.com/3685582/212713204-840657b5-8134-4b01-a90e-8de06e00e2d8.mp4
 
+## Typewriter sounds for X11
+https://github.com/shadyalfred/typewriter
 
+Written in Zig and uses SDL2 to play a typewriter keypress sound for X11.
+
+https://user-images.githubusercontent.com/3685582/232880927-938941ac-b92f-47f0-8120-e6c4b5b29596.webm
