@@ -10,7 +10,7 @@
 - [Ini Parser with Monadic Parser Combinators](#ini-parser)
 - [Metro Ticket](#metro-ticket)
 - [Typewriter sounds for X11](#typewriter-sounds-for-x11)
-- [electric-quotes.nvim](#electric-quotes.nvim)
+- [electric-quotes.nvim](#electric-quotesnvim)
 
 
 ## UNICEF Egypt Health
