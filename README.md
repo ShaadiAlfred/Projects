@@ -10,6 +10,7 @@
 - [Ini Parser with Monadic Parser Combinators](#ini-parser)
 - [Metro Ticket](#metro-ticket)
 - [Typewriter sounds for X11](#typewriter-sounds-for-x11)
+- [electric-quotes.nvim](#electric-quotes.nvim)
 
 
 ## UNICEF Egypt Health
@@ -99,3 +100,10 @@ https://github.com/shadyalfred/typewriter
 Written in Zig and uses SDL2 to play a typewriter keypress sound for X11.
 
 https://user-images.githubusercontent.com/3685582/232880927-938941ac-b92f-47f0-8120-e6c4b5b29596.webm
+
+## electric-quotes.nvim
+https://github.com/shadyalfred/electric-quotes.nvim
+
+A plugin written in Lua for Neovim
+
+https://user-images.githubusercontent.com/3685582/261686196-212199e3-ed6c-438a-94d6-d342e7c8bdfe.mp4
